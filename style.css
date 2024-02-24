@@ -9,7 +9,3 @@ button {
     font-size: 20px;
     border-radius: 5px;
 }
-
-button:disabled {
-    background-color: gray;
-}
